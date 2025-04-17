@@ -1,73 +1,63 @@
 # 👋 Hey there, I'm AbdulRahman Abukrash (@thisisabukarsh)
 
-### 🚀 Full-Stack Developer | Next.js | TypeScript | Node.js
+### 🚀 Front-End Developer | Next.js | TypeScript | Tailwind CSS
 
-I’m a **full-stack developer** passionate about **building scalable, high-performance web applications**.  
-With expertise in **Next.js, TypeScript, and Node.js**, I specialize in **frontend and backend development**, ensuring seamless digital experiences.
+I'm a **front-end developer** passionate about crafting **scalable, high-performance user interfaces**.  
+With expertise in **Next.js, TypeScript, and Tailwind CSS**, I focus on building seamless and responsive web experiences with modern UI/UX standards.
 
 ---
 
 ## 💡 About Me
 
-- 🎓 **Software Engineering Graduate** – Al-Zaytoonah University of Jordan
-- 🏗 **Building full-stack applications** with **Next.js , TypeScript, Node.js, and Tailwind CSS**
-- 🎤 **Passionate about teaching** – enjoy mentoring and sharing knowledge
+- 🎓 **Software Engineering Graduate** – Al-Zaytoonah University of Jordan  
+- 🧠 **Focused on front-end architecture** and UI development with **Next.js, TypeScript, and Tailwind CSS**  
+- 🎤 **Passionate about teaching** – I enjoy mentoring and sharing knowledge through workshops and content
 
 ---
 
 ## 🛠️ My Tech Stack
 
-### **Frontend**
+### **Core Front-End**
 
-- **React.js, Next.js , TypeScript**
-- **Tailwind CSS, Framer Motion**
+- **React.js, Next.js, TypeScript**  
+- **Tailwind CSS, Framer Motion, Shadcn/UI, and more**  
+- **Responsive Design, Accessibility (a11y), SEO Optimization**
 
-### **Backend**
+### **Front-End Tools & DevOps**
 
-- **Node.js, Express.js, TypeScript**
-- **NestJS (Exploring)**
-- **RESTful APIs**
-
-### **Databases & Cloud**
-
-- **MongoDB, Prisma**
-- **PostgreSQL, Redis (Exploring)**
-- **Cloud Deployment: Vercel, Docker (Learning)**
-
-### **Tools & DevOps**
-
-- **Git, GitHub, CI/CD Pipelines**
-- **Docker, Vercel, PM2**
+- **Git, GitHub, Vercel**  
+- **Component-Driven Development (CSD)**  
+- **CI/CD (GitHub Actions - Exploring)**
 
 ---
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=thisisabukarsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=thisisabukarsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-## 🔥 GitHub Streak Stats:
+## 🔥 GitHub Streak Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=thisisabukarsh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=thisisabukarsh&theme=dark&hide_border=false)
 
-## 📈 Top Languages:
+## 📈 Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisabukarsh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisabukarsh&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-## 🌍 Let's Connect!
+## 🌍 Let’s Connect!
 
-I’m always looking to collaborate on **exciting projects** and meet like-minded developers.  
-If you’re passionate about **full-stack development, backend systems, or creative web experiences**, let’s connect!
+I’m always excited to collaborate on **modern front-end projects** and connect with creative developers.  
+If you're working on **Next.js apps, UI animations, or design-driven web experiences**, let’s talk!
 
 📬 **Reach out:**
 
-- [LinkedIn](https://www.linkedin.com/in/abdulrahmanabukarsh)
-- [Portfolio](https://www.abukarsh.me)
+- [LinkedIn](https://www.linkedin.com/in/abdulrahmanabukarsh)  
+- [Portfolio](https://www.abukarsh.me)  
 - [Email](mailto:info@abukarsh.me)
 
 ---
 
-🚀 **Let’s build the future of the web together!**
+🚀 **Let’s create delightful user experiences together!**
 
-⭐️ If you're interested in collaborating, don't hesitate to get in touch! ⭐️
+⭐️ Interested in collaborating? Feel free to reach out anytime! ⭐️
